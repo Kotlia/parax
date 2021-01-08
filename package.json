@@ -1,0 +1,28 @@
+{
+  "name": "parax",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "parax": "src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kotlia/parax.git"
+  },
+  "author": "Kotlia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kotlia/parax/issues"
+  },
+  "homepage": "https://github.com/Kotlia/parax#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "ora": "^5.2.0",
+    "walk": "^2.3.14"
+  }
+}
